@@ -1,0 +1,18 @@
+#!/usr/bin/bash
+
+echo "value of \$0 is $0"
+echo "value of \$1 is $1"
+echo "value of \$2 is $2"
+echo "value of \$3 is $3"
+echo "value of \$4 is $4"
+echo "value of \$5 is $5"
+echo "value of \$6 is $6"
+echo "value of \$7 is $7"
+echo "value of \$8 is $8"
+echo "value of \$9 is $9"
+echo "value of \$10 is $"
+echo "value of \$11 is $"
+echo "value of \$# is $#"
+echo "value of \$@ is $@"
+echo "value of \$* is $*"
+echo "value of script pid \$$ is $$"
