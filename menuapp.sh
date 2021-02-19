@@ -2,14 +2,6 @@
 ##Author: Vivek Trivedi	 
 ##Program Purpose: Demo of case...esac with menu
 
-trap 'ctrlchandler' 2
-
-ctrlchandler(){
-	echo " Please use menu option to quit from application"
-	echo "Ctrl+C shortcut not allowed"
-}
-
-
 ctr=0
 until [ $ctr -ge 5 ]
 do

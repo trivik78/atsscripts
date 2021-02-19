@@ -1,0 +1,1 @@
+ODATA=`cat /tmp/log`
