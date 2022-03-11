@@ -1,1 +1,1 @@
-# Accenture Shell Scripting Training Demo Scripts Repository
+# Shell Scripting Training Demo Scripts Repository
